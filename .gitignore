@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Cache & Logs
+.yarn/cache/
+.pnpm-store/
+.npm/
+.vscode/
+.DS_Store
+*.log

@@ -1,0 +1,10 @@
+.card {
+  width: 160px;
+  font-size: 15px;
+  margin-bottom: 15px;
+  border-radius: 18px;
+}
+
+i {
+  font-size: 30px;
+}

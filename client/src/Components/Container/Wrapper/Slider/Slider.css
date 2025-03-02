@@ -1,0 +1,11 @@
+.sliderButton {
+  padding: 12px 25px;
+  border: none;
+  margin-left: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.sliderButton:hover {
+  box-shadow: none;
+}

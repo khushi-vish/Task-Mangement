@@ -1,0 +1,65 @@
+h2 {
+  margin: 10px 0;
+  color: #0d062d;
+}
+
+h3 {
+  margin-top: 0;
+  text-align: center;
+}
+
+/* .tasks {
+  background-color: yellow;
+} */
+
+.task-card {
+  background-color: white;
+  padding: 8px 0 5px 21px;
+  margin-bottom: 12px;
+  border-radius: 20px;
+  width: 58%;
+}
+
+.status {
+  padding: 2px 5px;
+  border-radius: 4px;
+}
+
+.blue {
+  color: #0f6eff;
+  background-color: #d4e5ff;
+}
+
+.yellow {
+  color: #d58d49;
+  background-color: #f9eee3;
+}
+
+.green {
+  color: #68b266;
+  background-color: #e6f3eb;
+}
+
+.desc {
+  color: #787486;
+  font-size: 14px;
+}
+
+.deadline {
+  font-size: 14px;
+  color: #5a5a5a;
+}
+
+.status-bar {
+  display: flex;
+  justify-content: space-between;
+}
+.fa-ellipsis {
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.three-dots {
+  border: none;
+  background-color: transparent;
+}
